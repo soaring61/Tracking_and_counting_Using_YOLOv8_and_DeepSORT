@@ -2,9 +2,8 @@
 
 追蹤與計數影像 / 影片所出現的人員
 
-
-
-![1](https://github.com/AarohiSingla/Tracking-and-counting-Using-YOLOv8-and-DeepSORT/assets/60029146/a1057b86-fcd7-412c-b7b0-583101cf91b6)
+影片追蹤的示範影片
+![1](https://github.com/soaring0616/Titlesurvey/assets/30642533/1ae527cd-3357-4536-98f1-385194543246)
 
 
 
